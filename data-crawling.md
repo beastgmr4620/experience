@@ -1,0 +1,1 @@
+- When you have a chain of http requests that use the same session (you have to save cookie for later uses), make sure the protocols are matched, you may unawarely create new session (over 1 hour wasted)
