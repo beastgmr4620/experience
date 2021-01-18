@@ -1,0 +1,3 @@
+- Use session middleware after cookie middleware (2 hours wasted)
+- If your site is not running on HTTPS, do not check `secure` flag (1 hour wasted)
+- Some respond methods won't save the session automatically (0 hour wasted, but saw someone commented that)
