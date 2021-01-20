@@ -1,0 +1,1 @@
+- If you want to share a service (which handle some data that need to be synchronized) between modules, you have to exports that service from a module and import the container module from other modules. Otherwise, it will create new instance of the service and data will not be synchronized. (2 days wasted)
