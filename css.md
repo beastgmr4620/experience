@@ -1,0 +1,1 @@
+- Sometime, height prop works on PC, PC mobile simulator but not on a real phone, add min-height prop (15 mins wasted)
