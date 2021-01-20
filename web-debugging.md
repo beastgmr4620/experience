@@ -1,1 +1,1 @@
-- If something is totally wrong happened, try other browser (with same engine)
+- If something is totally wrong happened, try other browser (with same engine) (30 mins wasted)
