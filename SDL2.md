@@ -1,0 +1,1 @@
+- If you have ever met "undefined reference to `SDL_main`", take a look at your main function. SDL rewrite main function and it requires a declared main function that follow this: `int main(int argc, char *argv[])`. Second argument `char *argv[]` must be `char *argv[]`, not `const char *argv[]` as it usually is. (wasted an evening)
